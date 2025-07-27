@@ -8,7 +8,7 @@ This project was developed as part of my journey in frontend development, to imp
 
 ## 🔗 Live Demo
 
-👉 [Play Simon Says Game](
+👉 [Play Simon Says Game]( https://umramirza.github.io/Simon-says-game/)
 
 ---
 
@@ -50,7 +50,7 @@ This project was developed as part of my journey in frontend development, to imp
 
 simon-says/
 
-│
+
 ├── index.html # Main game page
 
 ├── styles.css # CSS for design and layout
